@@ -6,7 +6,11 @@
 
 * [Natural Language Processing, Lecture Notes, Columbia U., CS-4705](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/natural-language-processing-lecture-notes-columbia-cs4705.pdf)
 
+* [Machine Learning for Natural Language Processing, Lecture Notes, Columbia U., E6998](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/machine-learning-for-natural-language-processing-lecture-notes-columbia-e6998.pdf)
+
 * [Foundation of Statistical Natural Language Processing, Christopher D. Manning, Hinrich Schutze, The MIT Press, 1999](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Foundations_of_Statistical_NLP-Chris_Manning.pdf)
+
+* [Natural Language Process - Semantic Aspects, Epaminondas Kapetanios, Doina Tatar, Christian Sacarea, 2014](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/natural-language-processing-semantic-aspects.pdf)
 
 * [Handbook of Natural Language Processing, 2 Edition, Chapman & Hall, 2010](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Handbook_Of_Natural_Language_Processing_2Ed_Chapman_Hall_2010.pdf)
 
