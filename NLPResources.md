@@ -4,6 +4,12 @@
 
 * [Natural Language Processing, Jacob Eisentstein, 2018](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/nlp-eisenstein-nov18.pdf)
 
+* [Natural Language Processing, Lecture Notes, Columbia U., CS-4705](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/natural-language-processing-lecture-notes-columbia-cs4705.pdf)
+
+* [Foundation of Statistical Natural Language Processing, Christopher D. Manning, Hinrich Schutze, The MIT Press, 1999](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Foundations_of_Statistical_NLP-Chris_Manning.pdf)
+
+* [Handbook of Natural Language Processing, 2 Edition, Chapman & Hall, 2010](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Handbook_Of_Natural_Language_Processing_2Ed_Chapman_Hall_2010.pdf)
+
 ## Articles and tutorials
 
 * [A Complete Guide To Natural Language Processing, DeepLearning.AI](https://www.deeplearning.ai/resources/natural-language-processing/)
