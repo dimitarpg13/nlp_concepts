@@ -19,6 +19,8 @@
 * [A Complete Guide To Natural Language Processing, DeepLearning.AI](https://www.deeplearning.ai/resources/natural-language-processing/)
 
 ## Medium
+* [Natural Language Processing: staying current on the latest developments in NLP](https://medium.com/@AMGAS14/list/natural-language-processing-0a856388a93a)
+
 
 * [A Gentle Introduction to Natural Language Processing with Ronak Vijay](https://towardsdatascience.com/a-gentle-introduction-to-natural-language-processing-e716ed3c0863)
 
