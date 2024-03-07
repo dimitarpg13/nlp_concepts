@@ -1,7 +1,6 @@
 # Natural Language Processing Concepts
 
-This repository is work in progress
-
+This repository is a work in progress and its contents will be updated regularly.
 
  
 ## Relevant Work
