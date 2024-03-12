@@ -14,6 +14,8 @@
 
 * [Handbook of Natural Language Processing, 2 Edition, Chapman & Hall, 2010](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Handbook_Of_Natural_Language_Processing_2Ed_Chapman_Hall_2010.pdf)
 
+* [Speech and Language Processing, Daniel Jurafsky, James H. Martin, 3rd edition, Stanford U., 2023](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Speech_and_Language_Processing_Daniel_Jurafsky_3rd_ed_Stanford_U_2023_book.pdf)
+
 ## Articles and tutorials
 
 * [A Complete Guide To Natural Language Processing, DeepLearning.AI](https://www.deeplearning.ai/resources/natural-language-processing/)
