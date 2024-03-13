@@ -20,6 +20,8 @@
 
 * [Representation Learhing for Natural Language Processing, Z. Liu et al, 2020](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/RepresentationLearningForNaturalLanguageProcessing_Liu_2020.pdf)
 
+* [Foundation Models for Natural Language Processing: Pre-trained Language Models Integrating Media, G. Paass, S. Giesselbach, 2023](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/foundation-models-for-natural-language-processing-pre-trained-language-models-integrating-media.pdf)
+
 ## Articles and tutorials
 
 * [A Complete Guide To Natural Language Processing, DeepLearning.AI](https://www.deeplearning.ai/resources/natural-language-processing/)
