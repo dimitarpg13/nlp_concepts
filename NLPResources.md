@@ -22,6 +22,8 @@
 
 * [Foundation Models for Natural Language Processing: Pre-trained Language Models Integrating Media, G. Paass, S. Giesselbach, 2023](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/foundation-models-for-natural-language-processing-pre-trained-language-models-integrating-media.pdf)
 
+* [A Partical Guide to Hybrid Natural Language Processing: Combining Neural Models and Knowledge Graphs for NLP, JM Gomez-Perez, R. Denaux, A. Garica-Silva, 2020](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/a-practical-guide-to-hybrid-natural-language-processing-combining-neural-models-and-knowledge-graphs-for-nlp-1st-ed.pdf)
+
 ## Articles and tutorials
 
 * [A Complete Guide To Natural Language Processing, DeepLearning.AI](https://www.deeplearning.ai/resources/natural-language-processing/)
