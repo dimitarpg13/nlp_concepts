@@ -40,6 +40,8 @@
 
 * [Embedding Knowledge Graphs with RDF2Vec, H. Paulheim, P. Ristoski, J. Portisch, 2023](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/embedding-knowledge-graphs-with-rdf2vec.pdf)
 
+* [RDF2Vec: RDF Graph Embeddings and Their Applications, P. Ristoski et al, 2018](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/embeddings/RDF2Vec-RDF_Graph_Embeddings_and_Their_Applications_Ristoski_2018.pdf)
+
 ## Medium
 * [Natural Language Processing: staying current on the latest developments in NLP](https://medium.com/@AMGAS14/list/natural-language-processing-0a856388a93a)
 
