@@ -38,6 +38,8 @@
 
 * [Word Embeddings - A Survey, Felipe Almeida, Geraldo Xexeo, 2023](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/embeddings/Word_Embeddings-A_Survey_Almeida_2023.pdf)
 
+* [Embedding Knowledge Graphs with RDF2Vec, H. Paulheim, P. Ristoski, J. Portisch, 2023](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/embedding-knowledge-graphs-with-rdf2vec.pdf)
+
 ## Medium
 * [Natural Language Processing: staying current on the latest developments in NLP](https://medium.com/@AMGAS14/list/natural-language-processing-0a856388a93a)
 
