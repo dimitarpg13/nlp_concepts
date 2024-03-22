@@ -16,6 +16,16 @@
 
 * [Speech and Language Processing, Daniel Jurafsky, James H. Martin, 3rd edition, Stanford U., 2023](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Speech_and_Language_Processing_Daniel_Jurafsky_3rd_ed_Stanford_U_2023_book.pdf)
 
+* [Deep Learning for Natural Language Processing, Jason Brownlee, 2017](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Deep_Learning_for_Natural_Language_Processing_Brownlee_2017.pdf)
+
+* [Representation Learhing for Natural Language Processing, Z. Liu et al, 2020](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/RepresentationLearningForNaturalLanguageProcessing_Liu_2020.pdf)
+
+* [Foundation Models for Natural Language Processing: Pre-trained Language Models Integrating Media, G. Paass, S. Giesselbach, 2023](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/foundation-models-for-natural-language-processing-pre-trained-language-models-integrating-media.pdf)
+
+* [A Partical Guide to Hybrid Natural Language Processing: Combining Neural Models and Knowledge Graphs for NLP, JM Gomez-Perez, R. Denaux, A. Garica-Silva, 2020](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/a-practical-guide-to-hybrid-natural-language-processing-combining-neural-models-and-knowledge-graphs-for-nlp-1st-ed.pdf)
+
+* [Knowledge Graphs and Big Data Processing, V. Janev, D. Graux, H. Jabeen, E. Sallinger, 2020](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/knowledge-graphs-and-big-data-processing-1st-ed.pdf)
+
 ## Articles and tutorials
 
 * [A Complete Guide To Natural Language Processing, DeepLearning.AI](https://www.deeplearning.ai/resources/natural-language-processing/)
@@ -39,6 +49,8 @@
 * [Word Embeddings - A Survey, Felipe Almeida, Geraldo Xexeo, 2023](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/embeddings/Word_Embeddings-A_Survey_Almeida_2023.pdf)
 
 * [Embedding Knowledge Graphs with RDF2Vec, H. Paulheim, P. Ristoski, J. Portisch, 2023](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/embedding-knowledge-graphs-with-rdf2vec.pdf)
+
+* [RDF2Vec: RDF Graph Embeddings and Their Applications, P. Ristoski et al, 2018](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/embeddings/RDF2Vec-RDF_Graph_Embeddings_and_Their_Applications_Ristoski_2018.pdf)
 
 ## Medium
 * [Natural Language Processing: staying current on the latest developments in NLP](https://medium.com/@AMGAS14/list/natural-language-processing-0a856388a93a)
