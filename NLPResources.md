@@ -31,11 +31,20 @@
 * [New Horizons in the Study of Language and Mind, Noam Chomsky, MIT, 2000](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/New_Horizons_in_the_Study_of_Language_and_Mind_Chomsky_2000.pdf)
 
 ## Articles and tutorials
+
+### Historical perspective
+* [The alphabet of Human Thoughts of Gottfried Leibnitz, Oscar Schwartz, IEEE Spectrum, 2019](https://spectrum.ieee.org/in-the-17th-century-leibniz-dreamed-of-a-machine-that-could-calculate-ideas)
+
+* [Characteristica Universalis, The Alphabet of Human Thoughts, Leibnitz, Wikipedia](https://en.wikipedia.org/wiki/Characteristica_universalis)
+
+* [Counting Letters: the First Generation of Language Models by Markov and Claude Shannon, Oscar Schwartz, IEEE Spectrum, 2019](https://spectrum.ieee.org/andrey-markov-and-claude-shannon-built-the-first-language-generation-models)
+
 * [An Example of Statistical Investigation of the Text Eugene
 Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/An_Example_of_Statistical_Investigation_of_the_Text_Eugene_Onegin_Concerning_the_Connection_of_Samples_in_Chains_Markov_1913.pdf)
 
 * [Chains to the West: Markov’s Theory of Connected Events and Its Transmission to Western Europe, David Link, 2007](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/DavidLink_ChainsToTheWest_2007.pdf)
 
+### Deep learning perspective
 * [A Complete Guide To Natural Language Processing, DeepLearning.AI](https://www.deeplearning.ai/resources/natural-language-processing/)
 
 * [Introduction to Transformers: an NLP Perspective, T. Xiao et al, 2023](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/Introduction_to_Transformers-a_NLP_Perspective_Xiao_2023.pdf)
