@@ -31,6 +31,10 @@
 * [New Horizons in the Study of Language and Mind, Noam Chomsky, MIT, 2000](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/New_Horizons_in_the_Study_of_Language_and_Mind_Chomsky_2000.pdf)
 
 ## Articles and tutorials
+* [An Example of Statistical Investigation of the Text Eugene
+Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/An_Example_of_Statistical_Investigation_of_the_Text_Eugene_Onegin_Concerning_the_Connection_of_Samples_in_Chains_Markov_1913.pdf)
+
+* [Chains to the West: Markov’s Theory of Connected Events and Its Transmission to Western Europe, David Link, 2007](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/DavidLink_ChainsToTheWest_2007.pdf)
 
 * [A Complete Guide To Natural Language Processing, DeepLearning.AI](https://www.deeplearning.ai/resources/natural-language-processing/)
 
