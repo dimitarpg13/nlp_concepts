@@ -26,6 +26,8 @@
 
 * [Knowledge Graphs and Big Data Processing, V. Janev, D. Graux, H. Jabeen, E. Sallinger, 2020](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/knowledge-graphs-and-big-data-processing-1st-ed.pdf)
 
+* [Natural Language Processing with Transformers, Lewis Tunstall, Leandro von Werra, Thomas Wolf, 2022](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/natural-language-processing-with-transformers-revised-edition-book.pdf)
+
 ## Articles and tutorials
 
 * [A Complete Guide To Natural Language Processing, DeepLearning.AI](https://www.deeplearning.ai/resources/natural-language-processing/)
