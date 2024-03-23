@@ -28,6 +28,8 @@
 
 * [Natural Language Processing with Transformers, Lewis Tunstall, Leandro von Werra, Thomas Wolf, 2022](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/natural-language-processing-with-transformers-revised-edition-book.pdf)
 
+* [New Horizons in the Study of Language and Mind, Noam Chomsky, MIT, 2000](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/New_Horizons_in_the_Study_of_Language_and_Mind_Chomsky_2000.pdf)
+
 ## Articles and tutorials
 
 * [A Complete Guide To Natural Language Processing, DeepLearning.AI](https://www.deeplearning.ai/resources/natural-language-processing/)
