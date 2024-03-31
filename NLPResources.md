@@ -71,6 +71,10 @@ Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://
 
 * [RDF2Vec: RDF Graph Embeddings and Their Applications, P. Ristoski et al, 2018](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/embeddings/RDF2Vec-RDF_Graph_Embeddings_and_Their_Applications_Ristoski_2018.pdf)
 
+* [Text Embeddings, Classification, and Semantic Search, Shaw Talebi, March 2024](https://towardsdatascience.com/text-embeddings-classification-and-semantic-search-8291746220be)
+
+* [A Survey of Text Representation and Embedding Techniques in NLP, R. Patil et al, IEEE, 2022](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/embeddings/A_Survey_of_Text_Representation_and_Embedding_Techniques_in_NLP_Patil_IEEE_2022.pdf)
+
 ## Medium
 * [Natural Language Processing: staying current on the latest developments in NLP](https://medium.com/@AMGAS14/list/natural-language-processing-0a856388a93a)
 
