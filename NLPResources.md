@@ -104,3 +104,5 @@ Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://
 * [POS Tagging using Hidden Markov Models (HMM) and Viterbu algorithm in NLP explained with Mehul Gupta](https://medium.com/data-science-in-your-pocket/pos-tagging-using-hidden-markov-models-hmm-viterbi-algorithm-in-nlp-mathematics-explained-d43ca89347c4)
 
 * [Tokenization algorithms in Natural Language Processing with Mehul Gupta](https://medium.com/data-science-in-your-pocket/tokenization-algorithms-in-natural-language-processing-nlp-1fceab8454af)
+
+* [Text Embeddings, Classification, and Semantic Search, Shaw Talebi, March 2024](https://towardsdatascience.com/text-embeddings-classification-and-semantic-search-8291746220be)
