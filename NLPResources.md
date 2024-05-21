@@ -18,7 +18,7 @@
 
 * [Deep Learning for Natural Language Processing, Jason Brownlee, 2017](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Deep_Learning_for_Natural_Language_Processing_Brownlee_2017.pdf)
 
-* [Representation Learhing for Natural Language Processing, Z. Liu et al, 2020](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/RepresentationLearningForNaturalLanguageProcessing_Liu_2020.pdf)
+* [Representation Learning for Natural Language Processing, Z. Liu et al, 2020](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/RepresentationLearningForNaturalLanguageProcessing_Liu_2020.pdf)
 
 * [Foundation Models for Natural Language Processing: Pre-trained Language Models Integrating Media, G. Paass, S. Giesselbach, 2023](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/foundation-models-for-natural-language-processing-pre-trained-language-models-integrating-media.pdf)
 
