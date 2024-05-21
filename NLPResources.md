@@ -18,6 +18,8 @@
 
 * [Deep Learning for Natural Language Processing, Jason Brownlee, 2017](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Deep_Learning_for_Natural_Language_Processing_Brownlee_2017.pdf)
 
+* [Neural Network Methods in Natural Language Processing, Yoav Goldberg, Bar Illan University, 2017](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Neural_Network_Methods_in_Natural_LanguageProcessing-2017-Yoav_Goldberg.pdf)
+
 * [Representation Learning for Natural Language Processing, Z. Liu et al, 2020](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/RepresentationLearningForNaturalLanguageProcessing_Liu_2020.pdf)
 
 * [Foundation Models for Natural Language Processing: Pre-trained Language Models Integrating Media, G. Paass, S. Giesselbach, 2023](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/foundation-models-for-natural-language-processing-pre-trained-language-models-integrating-media.pdf)
