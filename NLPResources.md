@@ -18,7 +18,9 @@
 
 * [Deep Learning for Natural Language Processing, Jason Brownlee, 2017](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Deep_Learning_for_Natural_Language_Processing_Brownlee_2017.pdf)
 
-* [Representation Learhing for Natural Language Processing, Z. Liu et al, 2020](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/RepresentationLearningForNaturalLanguageProcessing_Liu_2020.pdf)
+* [Neural Network Methods in Natural Language Processing, Yoav Goldberg, Bar Illan University, 2017](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Neural_Network_Methods_in_Natural_LanguageProcessing-2017-Yoav_Goldberg.pdf)
+
+* [Representation Learning for Natural Language Processing, Z. Liu et al, 2020](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/RepresentationLearningForNaturalLanguageProcessing_Liu_2020.pdf)
 
 * [Foundation Models for Natural Language Processing: Pre-trained Language Models Integrating Media, G. Paass, S. Giesselbach, 2023](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/foundation-models-for-natural-language-processing-pre-trained-language-models-integrating-media.pdf)
 
@@ -70,6 +72,10 @@ Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://
 * [Embedding Knowledge Graphs with RDF2Vec, H. Paulheim, P. Ristoski, J. Portisch, 2023](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/embedding-knowledge-graphs-with-rdf2vec.pdf)
 
 * [RDF2Vec: RDF Graph Embeddings and Their Applications, P. Ristoski et al, 2018](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/embeddings/RDF2Vec-RDF_Graph_Embeddings_and_Their_Applications_Ristoski_2018.pdf)
+
+* [Text Embeddings, Classification, and Semantic Search, Shaw Talebi, March 2024](https://towardsdatascience.com/text-embeddings-classification-and-semantic-search-8291746220be)
+
+* [A Survey of Text Representation and Embedding Techniques in NLP, R. Patil et al, IEEE, 2022](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/embeddings/A_Survey_of_Text_Representation_and_Embedding_Techniques_in_NLP_Patil_IEEE_2022.pdf)
 
 ## Medium
 * [Natural Language Processing: staying current on the latest developments in NLP](https://medium.com/@AMGAS14/list/natural-language-processing-0a856388a93a)
