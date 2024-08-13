@@ -18,3 +18,5 @@ literature/books/nlp-kavi-murthy-hyderabad-2006-book.pdf filter=lfs diff=lfs mer
 literature/articles/Introduction_to_Transformers-a_NLP_Perspective_Xiao_2023.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/natural-language-processing-with-transformers-revised-edition-book.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/New_Horizons_in_the_Study_of_Language_and_Mind_Chomsky_2000.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Neural_Network_Methods_in_Natural_LanguageProcessing-2017-Yoav_Goldberg.pdf filter=lfs diff=lfs merge=lfs -text
+
