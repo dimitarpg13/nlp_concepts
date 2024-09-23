@@ -77,6 +77,10 @@ Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://
 
 * [A Survey of Text Representation and Embedding Techniques in NLP, R. Patil et al, IEEE, 2022](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/embeddings/A_Survey_of_Text_Representation_and_Embedding_Techniques_in_NLP_Patil_IEEE_2022.pdf)
 
+### Neural Machine Translation
+
+* [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation, Melvin Johnson et al, 2017](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/Google_Multilingual_Neural_Machine_Translation_System-Enabling_Zero-Shot_Translation_Johnson_2017.pdf)
+
 ## Medium
 * [Natural Language Processing: staying current on the latest developments in NLP](https://medium.com/@AMGAS14/list/natural-language-processing-0a856388a93a)
 
