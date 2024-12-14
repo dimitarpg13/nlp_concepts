@@ -85,6 +85,16 @@ Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://
 
 * [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation, Melvin Johnson et al, 2017](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/Google_Multilingual_Neural_Machine_Translation_System-Enabling_Zero-Shot_Translation_Johnson_2017.pdf)
 
+### Knowledge Graphs
+
+* [Knowledge Graphs: Opportunities and Chalenges, C. Peng et al, 2023](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/knowledge_graphs/KnowledgeGraphs_Opportunities_and_Challenges_Peng_2023.pdf)
+
+* [Automatic Knowledge Graph Refinement: A Survey of Approaches and Evaluation Methods, H. Paulheim, 2015](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/knowledge_graphs/Automatic_Knowledge_Graph_Refinement-A_Survey_of_Approaches_and_Evaluation_Methods_Paulheim_2015.pdf)
+
+* [A Comprehensive Survey of Graph Neural Networks for Knowledge Graphs, Z. Ye et al, 2022](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/knowledge_graphs/A_Comprehensive_Survey_of_Graph_Neural_Networks_for_Knowledge_Graphs_Ye_2022.pdf)
+
+* [Graph Neural Networks: a Review of Methods and Applications, J. Zhou et al, 2021](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/knowledge_graphs/Graph_neural_networks-A_review_of_methods_and_applications_Zhou_2020.pdf)
+
 ## Medium
 * [Natural Language Processing: staying current on the latest developments in NLP](https://medium.com/@AMGAS14/list/natural-language-processing-0a856388a93a)
 
