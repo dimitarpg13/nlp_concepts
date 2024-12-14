@@ -75,6 +75,8 @@ Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://
 
 * [Text Embeddings, Classification, and Semantic Search, Shaw Talebi, March 2024](https://towardsdatascience.com/text-embeddings-classification-and-semantic-search-8291746220be)
 
+* [The Mathematics of Words, Miquel Noguer i Alonso, 2024](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/embeddings/The_Mathematics_of_Words_Alonso_2024.pdf)
+
 * [A Survey of Text Representation and Embedding Techniques in NLP, R. Patil et al, IEEE, 2022](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/embeddings/A_Survey_of_Text_Representation_and_Embedding_Techniques_in_NLP_Patil_IEEE_2022.pdf)
 
 ### Neural Machine Translation
