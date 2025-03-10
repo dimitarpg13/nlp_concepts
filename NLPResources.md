@@ -2,7 +2,7 @@
 
 ## Books
 
-* [Natural Language Processing, Jacob Eisentstein, 2018](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/nlp-eisenstein-nov18.pdf)
+* [Natural Language Processing, Jacob Eisenstein, 2018](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/nlp-eisenstein-nov18.pdf)
 
 * [Natural Language Processing, Lecture Notes, Columbia U., CS-4705](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/natural-language-processing-lecture-notes-columbia-cs4705.pdf)
 
