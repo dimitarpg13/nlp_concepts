@@ -48,10 +48,13 @@ Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://
 
 * [Chains to the West: Markov’s Theory of Connected Events and Its Transmission to Western Europe, David Link, 2007](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/DavidLink_ChainsToTheWest_2007.pdf)
 
+
 ### Deep learning perspective
 * [A Complete Guide To Natural Language Processing, DeepLearning.AI](https://www.deeplearning.ai/resources/natural-language-processing/)
 
 * [Introduction to Transformers: an NLP Perspective, T. Xiao et al, 2023](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/Introduction_to_Transformers-a_NLP_Perspective_Xiao_2023.pdf)
+
+* [On The Convergence Proofs for Perceptrons, Albert BJ Novikoff, Office of Naval Research, 1963](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/On_Convergence_Proofs_for_Perceptrons_Novikoff_1963.pdf)
 
 ### Embeddings
 
