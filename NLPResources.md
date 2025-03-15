@@ -58,6 +58,8 @@ Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://
 
 * [On The Convergence Proofs for Perceptrons, Albert BJ Novikoff, Office of Naval Research, 1963](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/On_Convergence_Proofs_for_Perceptrons_Novikoff_1963.pdf)
 
+* [Large Margin Classification Using the Perceptron Algorithm, Yoav Freund, Robert S. Schapire, 1999](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/Large_Margin_Classification_Using_the_Perceptron_Algorithm_Freund_Schapire_1999.pdf)
+
 ### Embeddings
 
 * [Embeddings in Natural Language Processing: Theory and Advances in Vector Representation of Meaning, M. Pilhevar, J. Camacho-Collados, 2021](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/embeddings/Embeddings_in_NLP_Pilhevar_book_draft.pdf)
