@@ -34,6 +34,8 @@
 
 * [Perceptrons: An Introduction to Computational Geometry, M. Minsky, S. Pappert, 1969, Expanded Edition, 3rd printing 1988](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Minsky-and-Papert-Perceptrons-1969.pdf)
 
+* [Foundations of Machine Learning, Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar, 2012](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Foundations_of_Machine_Learning_Mohri_2012.pdf)
+
 ## Articles and tutorials
 
 ### Historical perspective
