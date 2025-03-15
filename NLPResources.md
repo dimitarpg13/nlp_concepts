@@ -32,6 +32,8 @@
 
 * [New Horizons in the Study of Language and Mind, Noam Chomsky, MIT, 2000](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/New_Horizons_in_the_Study_of_Language_and_Mind_Chomsky_2000.pdf)
 
+* [Perceptrons: An Introduction to Computational Geometry, M. Minsky, S. Pappert, 1969, Expanded Edition, 3rd printing 1988](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Minsky-and-Papert-Perceptrons-1969.pdf)
+
 ## Articles and tutorials
 
 ### Historical perspective
