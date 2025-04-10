@@ -141,3 +141,8 @@ Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://
 * [Tokenization algorithms in Natural Language Processing with Mehul Gupta](https://medium.com/data-science-in-your-pocket/tokenization-algorithms-in-natural-language-processing-nlp-1fceab8454af)
 
 * [Text Embeddings, Classification, and Semantic Search, Shaw Talebi, March 2024](https://towardsdatascience.com/text-embeddings-classification-and-semantic-search-8291746220be)
+
+
+## Classes, online videos and blogs
+
+* [Stanford CS336 Language Modeling from Scratch, Spring 2025](https://stanford-cs336.github.io/spring2025/)
