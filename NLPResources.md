@@ -2,11 +2,11 @@
 
 ## Books
 
-* [Natural Language Processing, Jacob Eisentstein, 2018](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/nlp-eisenstein-nov18.pdf)
+* [Natural Language Processing, Jacob Eisenstein, 2018](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/nlp-eisenstein-nov18.pdf)
 
-* [Natural Language Processing, Lecture Notes, Columbia U., CS-4705](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/natural-language-processing-lecture-notes-columbia-cs4705.pdf)
+* [Natural Language Processing, Lecture Notes, Michael Collins, Columbia U., CS-4705](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/natural-language-processing-lecture-notes-columbia-cs4705.pdf)
 
-* [Machine Learning for Natural Language Processing, Lecture Notes, Columbia U., E6998](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/machine-learning-for-natural-language-processing-lecture-notes-columbia-e6998.pdf)
+* [Machine Learning for Natural Language Processing, Lecture Notes, Michael Collins, Columbia U., E6998](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/machine-learning-for-natural-language-processing-lecture-notes-columbia-e6998.pdf)
 
 * [Foundation of Statistical Natural Language Processing, Christopher D. Manning, Hinrich Schutze, The MIT Press, 1999](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Foundations_of_Statistical_NLP-Chris_Manning.pdf)
 
@@ -32,6 +32,10 @@
 
 * [New Horizons in the Study of Language and Mind, Noam Chomsky, MIT, 2000](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/New_Horizons_in_the_Study_of_Language_and_Mind_Chomsky_2000.pdf)
 
+* [Perceptrons: An Introduction to Computational Geometry, M. Minsky, S. Pappert, 1969, Expanded Edition, 3rd printing 1988](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Minsky-and-Papert-Perceptrons-1969.pdf)
+
+* [Foundations of Machine Learning, Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar, 2012](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Foundations_of_Machine_Learning_Mohri_2012.pdf)
+
 ## Articles and tutorials
 
 ### Historical perspective
@@ -46,10 +50,17 @@ Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://
 
 * [Chains to the West: Markov’s Theory of Connected Events and Its Transmission to Western Europe, David Link, 2007](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/DavidLink_ChainsToTheWest_2007.pdf)
 
+
 ### Deep learning perspective
 * [A Complete Guide To Natural Language Processing, DeepLearning.AI](https://www.deeplearning.ai/resources/natural-language-processing/)
 
 * [Introduction to Transformers: an NLP Perspective, T. Xiao et al, 2023](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/Introduction_to_Transformers-a_NLP_Perspective_Xiao_2023.pdf)
+
+* [Perceptrons: An Introduction to Computational Geometry, M. Minsky, S. Pappert, 1969, Expanded Edition, 3rd printing 1988](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Minsky-and-Papert-Perceptrons-1969.pdf)
+
+* [On The Convergence Proofs for Perceptrons, Albert BJ Novikoff, Office of Naval Research, 1963](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/On_Convergence_Proofs_for_Perceptrons_Novikoff_1963.pdf)
+
+* [Large Margin Classification Using the Perceptron Algorithm, Yoav Freund, Robert S. Schapire, 1999](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/Large_Margin_Classification_Using_the_Perceptron_Algorithm_Freund_Schapire_1999.pdf)
 
 ### Embeddings
 
@@ -84,6 +95,16 @@ Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://
 * [Neural Machine Translation: A Review and Survey, Felix Stahlberg, U of Cambridge, 2020](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/Neural_Machine_Translation-A_Review_and_Survey_Stahlberg_2020.pdf)
 
 * [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation, Melvin Johnson et al, 2017](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/Google_Multilingual_Neural_Machine_Translation_System-Enabling_Zero-Shot_Translation_Johnson_2017.pdf)
+
+### Knowledge Graphs
+
+* [Knowledge Graphs: Opportunities and Chalenges, C. Peng et al, 2023](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/knowledge_graphs/KnowledgeGraphs_Opportunities_and_Challenges_Peng_2023.pdf)
+
+* [Automatic Knowledge Graph Refinement: A Survey of Approaches and Evaluation Methods, H. Paulheim, 2015](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/knowledge_graphs/Automatic_Knowledge_Graph_Refinement-A_Survey_of_Approaches_and_Evaluation_Methods_Paulheim_2015.pdf)
+
+* [A Comprehensive Survey of Graph Neural Networks for Knowledge Graphs, Z. Ye et al, 2022](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/knowledge_graphs/A_Comprehensive_Survey_of_Graph_Neural_Networks_for_Knowledge_Graphs_Ye_2022.pdf)
+
+* [Graph Neural Networks: a Review of Methods and Applications, J. Zhou et al, 2021](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/knowledge_graphs/Graph_neural_networks-A_review_of_methods_and_applications_Zhou_2020.pdf)
 
 ## Medium
 * [Natural Language Processing: staying current on the latest developments in NLP](https://medium.com/@AMGAS14/list/natural-language-processing-0a856388a93a)
@@ -120,3 +141,8 @@ Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://
 * [Tokenization algorithms in Natural Language Processing with Mehul Gupta](https://medium.com/data-science-in-your-pocket/tokenization-algorithms-in-natural-language-processing-nlp-1fceab8454af)
 
 * [Text Embeddings, Classification, and Semantic Search, Shaw Talebi, March 2024](https://towardsdatascience.com/text-embeddings-classification-and-semantic-search-8291746220be)
+
+
+## Classes, online videos and blogs
+
+* [Stanford CS336 Language Modeling from Scratch, Spring 2025](https://stanford-cs336.github.io/spring2025/)
