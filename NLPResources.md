@@ -36,6 +36,8 @@
 
 * [Foundations of Machine Learning, Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar, 2012](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Foundations_of_Machine_Learning_Mohri_2012.pdf)
 
+* [Statistical Machine Translation, P. Koehn, 2010](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Statistical_machine_translation_2010_Koehn.pdf)
+
 ## Articles and tutorials
 
 ### Historical perspective
