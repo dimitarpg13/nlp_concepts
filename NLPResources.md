@@ -36,6 +36,8 @@
 
 * [Foundations of Machine Learning, Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar, 2012](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Foundations_of_Machine_Learning_Mohri_2012.pdf)
 
+* [Statistical Machine Translation, P. Koehn, 2010](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Statistical_machine_translation_2010_Koehn.pdf)
+
 ## Articles and tutorials
 
 ### Historical perspective
@@ -95,6 +97,48 @@ Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://
 * [Neural Machine Translation: A Review and Survey, Felix Stahlberg, U of Cambridge, 2020](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/Neural_Machine_Translation-A_Review_and_Survey_Stahlberg_2020.pdf)
 
 * [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation, Melvin Johnson et al, 2017](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/Google_Multilingual_Neural_Machine_Translation_System-Enabling_Zero-Shot_Translation_Johnson_2017.pdf)
+
+* [Language Models are Unsupervised Multitask Learners, Alec Radford et al, 2018]()
+
+* Neural Machine Translation of Rare Words with Subword Units, Rico Sennrich, Barry Haddow, Alexandra Birch, 2015
+
+* Sequence to Sequence Learning with Neural Networks, Ilya Sutskever et al, Google, 2014
+
+* Fast and Robust Neural Network Joint Models for Statistical Machine Translation, J. Devlin et al, Raytheon, 2014
+
+* Neural Machine Translation by Jointly Learning to Align and Translate, D. Bahdanau, K. Cho, Yoshua Bengio, 2016
+
+* Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation, K. Cho et al, 2014
+
+* Recurrent Continuous Translation Models, N. Kalchbrenner, P. Blunsom, U of Oxford, 2013
+
+* Continuous Space Translation Models for Phrase-Based Statistical Machine Translation, Holger Schwenk, 2012
+
+* Continuous Space Translation Models with Neural Networks, Le Hai Son et al, 2012
+
+* Sequence Transduction with Recurrent Neural Networks, Alex Graves et al, 2012
+
+* Long Short Term Memory, Sepp Hochreiter, 1997
+
+* Tutorial on Long Short Term Memory, Ralf C. Staudemeyer et al, 2019
+
+* Continuous Space Language Models for Statistical Machine Translation, Holger Schwenk et al, 2006
+
+* Effective Approaches to Attention-based Neural Machine Translation, MH Luong et al, 2015
+
+* Neural Machine Translation, Quinn Lanners, 2019, Medium
+
+* A Gentle Introduction to Neural Machine Translation, J. Brownlee, Machine Learning Mastery, 2019
+
+* NLP From Scratch: Translation with a Sequence to Sequence Network and Attention, Sean Robertson, PyTorch Tutorial
+
+   related Github repo: https://github.com/pytorch/tutorials/blob/main/intermediate_source/seq2seq_translation_tutorial.py
+
+* The Minimal Byte-Pair Encoding Algorithm MinBPE for Language Tokenization, Andrej Karpathy's Github repo
+
+* A Neural Probabilistic Model, J. Bengio et al, 2003
+
+* A Unified Architecture for Natural Language Processing: Deep Neural Networks with Multitask Learning, R. Collobert et al, NEC, 2008
 
 ### Knowledge Graphs
 
