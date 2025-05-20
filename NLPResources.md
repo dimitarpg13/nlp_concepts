@@ -96,6 +96,8 @@ Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://
 
 ### Neural Machine Translation
 
+* [Spelling Correction and the Noisy Channel, Chapter B, Speech and Language Processing. Daniel Jurafsky & James H. Martin, Draft, 2025](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/neural_machine_translation/Spelling_Correction_and_the_Noisy_Channel_Jurafsky_2024.pdf)
+
 * [Neural Machine Translation: A Review and Survey, Felix Stahlberg, U of Cambridge, 2020](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/Neural_Machine_Translation-A_Review_and_Survey_Stahlberg_2020.pdf)
 
 * [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation, Melvin Johnson et al, 2017](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/Google_Multilingual_Neural_Machine_Translation_System-Enabling_Zero-Shot_Translation_Johnson_2017.pdf)
