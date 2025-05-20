@@ -16,6 +16,8 @@
 
 * [Speech and Language Processing, Daniel Jurafsky, James H. Martin, 3rd edition, Stanford U., 2023](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Speech_and_Language_Processing_Daniel_Jurafsky_3rd_ed_Stanford_U_2023_book.pdf)
 
+* [Speech and Language Processing, Daniel Jurafsky, James H. Martin, 3rd edition, Stanford U., Revised 3rd Edition, Draft, 2025](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Speech_and_Language_Processing_Jurafsky_3ed_2025.pdf)
+
 * [Deep Learning for Natural Language Processing, Jason Brownlee, 2017](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Deep_Learning_for_Natural_Language_Processing_Brownlee_2017.pdf)
 
 * [Neural Network Methods in Natural Language Processing, Yoav Goldberg, Bar Illan University, 2017](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/books/Neural_Network_Methods_in_Natural_LanguageProcessing-2017-Yoav_Goldberg.pdf)
