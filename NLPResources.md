@@ -96,8 +96,6 @@ Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://
 
 ### Neural Machine Translation
 
-* [Spelling Correction and the Noisy Channel, Chapter B, Speech and Language Processing. Daniel Jurafsky & James H. Martin, Draft, 2025](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/neural_machine_translation/Spelling_Correction_and_the_Noisy_Channel_Jurafsky_2024.pdf)
-
 * [Neural Machine Translation: A Review and Survey, Felix Stahlberg, U of Cambridge, 2020](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/Neural_Machine_Translation-A_Review_and_Survey_Stahlberg_2020.pdf)
 
 * [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation, Melvin Johnson et al, 2017](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/Google_Multilingual_Neural_Machine_Translation_System-Enabling_Zero-Shot_Translation_Johnson_2017.pdf)
@@ -143,6 +141,18 @@ Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://
 * A Neural Probabilistic Model, J. Bengio et al, 2003
 
 * A Unified Architecture for Natural Language Processing: Deep Neural Networks with Multitask Learning, R. Collobert et al, NEC, 2008
+
+* [Spelling Correction and the Noisy Channel, Chapter B, Speech and Language Processing. Daniel Jurafsky & James H. Martin, Draft, 2025](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/neural_machine_translation/Spelling_Correction_and_the_Noisy_Channel_Jurafsky_2024.pdf)
+
+* [An Improved Error Model for Noisy Channel Spelling Correction, Eric Brill and Robert C. Moore, 2000](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/neural_machine_translation/An_Improved_Error_Model_for_Noisy_Channel_Spelling_Correction_Brill_Moore_2000.pdf)
+
+* [The Mathematics of Statistical Machine Translation: Parameter Estimation, Peter E Brown et al, IBM, 1993](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/neural_machine_translation/The_Mathematics_of_Statistical_Machine_Translation-Parameter_Estimation_Brown_1993.pdf)
+
+* [Finite State Models and Natural Language,  Roger Levy, MIT, presentation](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/neural_machine_translation/Finite_State_Models_and_Natural_Language_Levy_MIT_slides.pdf)
+
+* [Introduction to Finite-State Devices in Natural Language Processing, Emmanuel Roches, Yves Schabes, 1996](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/neural_machine_translation/Introduction_to_Finite-State_Devices_in_Natural_Language_Processing_roche_schabes_1996.pdf)
+
+* [Finite-State Transducers in Language and Speech Processing, Mehryar Mohri, AT&T Labs Research, 1997](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/neural_machine_translation/Finite-State_Transducers_in_Language_and_Speech_Processing_Mohri_1997.pdf)
 
 ### Knowledge Graphs
 
