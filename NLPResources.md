@@ -204,3 +204,5 @@ Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://
 ## Classes, online videos and blogs
 
 * [Stanford CS336 Language Modeling from Scratch, Spring 2025](https://stanford-cs336.github.io/spring2025/)
+
+* [Stanford CS224N: NLP with Deep Learning, Winter 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
