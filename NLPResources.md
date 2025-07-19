@@ -114,6 +114,8 @@ Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://
 
 * Recurrent Continuous Translation Models, N. Kalchbrenner, P. Blunsom, U of Oxford, 2013
 
+* [Continuous Space Language Models for Statistical Machine Translation, Holger Schwenk et al, 2006](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/neural_machine_translation/Continuous_Space_Language_Models_for_Statistical_Machine_Translation_Schwenk_2006.pdf)
+
 * Continuous Space Translation Models for Phrase-Based Statistical Machine Translation, Holger Schwenk, 2012
 
 * Continuous Space Translation Models with Neural Networks, Le Hai Son et al, 2012
