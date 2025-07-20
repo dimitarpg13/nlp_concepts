@@ -34,3 +34,4 @@ literature/articles/neural_machine_translation/Learning_Phrase_Representations_u
 literature/books/Speech_and_Language_Processing_Jurafsky_3ed_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/neural_machine_translation/The_Mathematics_of_Statistical_Machine_Translation-Parameter_Estimation_Brown_1993.pdf filter=lfs diff=lfs merge=lfs -text
 docs/MaxentTutorial-16x9-MEMMs-Smoothing.pdf filter=lfs diff=lfs merge=lfs -text
+docs/MaxentTutorial-16x9-Smoothing.pdf filter=lfs diff=lfs merge=lfs -text
