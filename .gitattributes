@@ -37,3 +37,4 @@ docs/MaxentTutorial-16x9-MEMMs-Smoothing.pdf filter=lfs diff=lfs merge=lfs -text
 docs/MaxentTutorial-16x9-Smoothing.pdf filter=lfs diff=lfs merge=lfs -text
 docs/MaxentTutorial-16x9.pdf filter=lfs diff=lfs merge=lfs -text
 docs/SLoSP-2014-4-dependencies.pdf filter=lfs diff=lfs merge=lfs -text
+docs/afz-tutorial.acl.2013-learning.pdf filter=lfs diff=lfs merge=lfs -text
