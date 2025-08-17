@@ -158,17 +158,17 @@ Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://
 
 #### Word Order Search Algorithms in Statistical Machine Translation
 
-* [Word Reordering and a Dynamic Programming Beam Search Algorithm for Statistical Machine Translation, Christoph Tillmann, Hermann Ney, 2003]()
+* [Word Reordering and a Dynamic Programming Beam Search Algorithm for Statistical Machine Translation, Christoph Tillmann, Hermann Ney, 2003](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/neural_machine_translation/Word_Reordering_and_a_Dynamic_Programming_Beam_Search_Algorithm_for_Statistical_Machine_Translation_Tillman_IBM_2003.pdf)
 
-* [A DP-based Search Algorithm for Statistical Machine Translation, S. Niessen et al, Aachen U. of Technology, 1999]()
+* [A DP-based Search Algorithm for Statistical Machine Translation, S. Niessen et al, Aachen U. of Technology, 1999](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/neural_machine_translation/A_DP_based_Search_Algorithm_for_Statistical_Machine_Translation_Niessen_1999.pdf)
 
-* [Language Translation Apparatus and Method Using Context-Based Translation Models, Adam L. Berger et al, US5,510,981, 1996]()
+* [Language Translation Apparatus and Method Using Context-Based Translation Models, Adam L. Berger et al, US5,510,981, 1996](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/neural_machine_translation/Language_translation_apparatus_and_method_of_using_context-based_translation_models_US_Patent_5510981.pdf)
 
-* [The Mathematics of Statistical Machine Translation: Parameter Estimation, Peter F. Brown et al, IBM T.J.Watson Research Center, 1993]()
+* [The Mathematics of Statistical Machine Translation: Parameter Estimation, Peter F. Brown et al, IBM T.J.Watson Research Center, 1993](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/neural_machine_translation/The_Mathematics_of_Statistical_Machine_Translation-Parameter_Estimation_Brown_1993.pdf)
 
-* [A Statistical Approach to Machine Translation, Peter F. Brown et al, IBM T.J.Watson Research Center, 1990]()
+* [A Statistical Approach to Machine Translation, Peter F. Brown et al, IBM T.J.Watson Research Center, 1990](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/neural_machine_translation/A_Statistical_Approach_to_Machine_Translation_Brown_1990.pdf)
 
-* [Statistical Machine Translation, Final Report, JHU Workshop, Yasser Al-Onaizan et al, 1999]()
+* [Statistical Machine Translation, Final Report, JHU Workshop, Yasser Al-Onaizan et al, 1999](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/neural_machine_translation/Statistical_Machine_Translation_FInal_Report_JHU-1999-AlOnaizan.pdf)
 
 
 
