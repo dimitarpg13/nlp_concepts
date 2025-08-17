@@ -156,6 +156,22 @@ Onegin Concerning the Connection of Samples in Chains, A. Markov, 1913](https://
 
 * [Finite-State Transducers in Language and Speech Processing, Mehryar Mohri, AT&T Labs Research, 1997](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/neural_machine_translation/Finite-State_Transducers_in_Language_and_Speech_Processing_Mohri_1997.pdf)
 
+#### Word Order Search Algorithms in Statistical Machine Translation
+
+* [Word Reordering and a Dynamic Programming Beam Search Algorithm for Statistical Machine Translation, Christoph Tillmann, Hermann Ney, 2003]()
+
+* [A DP-based Search Algorithm for Statistical Machine Translation, S. Niessen et al, Aachen U. of Technology, 1999]()
+
+* [Language Translation Apparatus and Method Using Context-Based Translation Models, Adam L. Berger et al, US5,510,981, 1996]()
+
+* [The Mathematics of Statistical Machine Translation: Parameter Estimation, Peter F. Brown et al, IBM T.J.Watson Research Center, 1993]()
+
+* [A Statistical Approach to Machine Translation, Peter F. Brown et al, IBM T.J.Watson Research Center, 1990]()
+
+* [Statistical Machine Translation, Final Report, JHU Workshop, Yasser Al-Onaizan et al, 1999]()
+
+
+
 ### Knowledge Graphs
 
 * [Knowledge Graphs: Opportunities and Chalenges, C. Peng et al, 2023](https://github.com/dimitarpg13/nlp_concepts/blob/main/literature/articles/knowledge_graphs/KnowledgeGraphs_Opportunities_and_Challenges_Peng_2023.pdf)
